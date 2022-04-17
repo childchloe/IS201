@@ -1,0 +1,17 @@
+/* Chloe Child last edited: 4/16/2022 */
+
+.italics {
+    font-style:italic;
+}
+
+.semi-bold {
+    font-weight:600;
+}
+
+.thin {
+    font-weight: 100;
+}
+
+.underline {
+    text-decoration: underline;
+}

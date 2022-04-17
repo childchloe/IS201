@@ -1,0 +1,78 @@
+/*! Chloe Child last edited: 04/16/2022 */
+
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px grey;
+}
+
+.center {
+    float: center;
+}
+
+.topleft {
+    top: 120px;
+    left: 5px;
+    width: 700px;
+    padding-left: 5px;
+    border: solid 1px grey;
+}
+
+.topright {
+    top: 120px;
+    width:700px;
+    right: 5px;
+    padding-right: 5px;
+    border: solid 1px grey;
+}
+
+.bottomleft {
+    height:100px;
+    bottom: 5px;
+    left: 5px;
+    width: 700px;
+    border: solid 1px grey;
+    padding-left: 5px;
+}
+
+.bottomright {
+    height: 100px;
+    bottom: 5px;
+    right: 5px;
+    width: 700px;
+    border: solid 1px grey;
+    padding-right: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed !important;
+}
+
+.title {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.navbar {
+    float: right;
+}
+
+.li {
+    display:inline;
+    font-weight:bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
